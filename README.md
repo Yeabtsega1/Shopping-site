@@ -1,6 +1,15 @@
 
 
-![App Screenshot](./public/Screenshot (1380).png)
+<p align="center">
+  <a href="https://yeab-portfolio.netlify.app/">
+    <h2 align="center">Yeabtsega Behailu</h2>
+  </a>
+</p> 
+<p align="center">Full Stack Web Developer</p>
+
+
+![Yeabtsega Site Preview](./public/Screenshot (1380).png)
+
 
 # E-Commerce Website
 
