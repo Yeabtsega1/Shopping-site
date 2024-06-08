@@ -1,3 +1,7 @@
+## Screenshots
+
+![App Screenshot](./public/Screenshot (1380).png)
+
 # E-Commerce Website
 
 A Ecommerce Website made with React.js Framework.
@@ -13,9 +17,6 @@ https://yb-shopping.netlify.app/
 - Fully Responsive
 
 
-## Screenshots
-
-![App Screenshot](./public/Screenshot (1380).png)
 
 
 
