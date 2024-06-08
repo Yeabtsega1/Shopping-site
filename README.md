@@ -8,7 +8,7 @@
 <p align="center">Full Stack Web Developer</p>
 
 
-![Yeabtsega Site Preview](./public/Screenshot (1380).png)
+![Yeabtsega Site Preview](.//public/Screenshot (1380).png)
 
 
 # E-Commerce Website
