@@ -14,7 +14,7 @@ https://yb-shopping.netlify.app/
 
 
 ## Screenshots
-
+![App Screenshot](./Screenshot/Screenshot2.png)
 ![App Screenshot](./Screenshot/Screenshot.png)
 
 
